@@ -1,0 +1,782 @@
+[
+  {
+    "code": "major_00_fool",
+    "name": "Fool",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_00_fool.jpg"
+  },
+  {
+    "code": "major_01_magician",
+    "name": "Magician",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_01_magician.jpg"
+  },
+  {
+    "code": "major_02_high_priestess",
+    "name": "High Priestess",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_02_high_priestess.jpg"
+  },
+  {
+    "code": "major_03_empress",
+    "name": "Empress",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_03_empress.jpg"
+  },
+  {
+    "code": "major_04_emperor",
+    "name": "Emperor",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_04_emperor.jpg"
+  },
+  {
+    "code": "major_05_hierophant",
+    "name": "Hierophant",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_05_hierophant.jpg"
+  },
+  {
+    "code": "major_06_lovers",
+    "name": "Lovers",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_06_lovers.jpg"
+  },
+  {
+    "code": "major_07_chariot",
+    "name": "Chariot",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_07_chariot.jpg"
+  },
+  {
+    "code": "major_08_strength",
+    "name": "Strength",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_08_strength.jpg"
+  },
+  {
+    "code": "major_09_hermit",
+    "name": "Hermit",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_09_hermit.jpg"
+  },
+  {
+    "code": "major_10_wheel_of_fortune",
+    "name": "Wheel Of Fortune",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_10_wheel_of_fortune.jpg"
+  },
+  {
+    "code": "major_11_justice",
+    "name": "Justice",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_11_justice.jpg"
+  },
+  {
+    "code": "major_12_hanged_man",
+    "name": "Hanged Man",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_12_hanged_man.jpg"
+  },
+  {
+    "code": "major_13_death",
+    "name": "Death",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_13_death.jpg"
+  },
+  {
+    "code": "major_14_temperance",
+    "name": "Temperance",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_14_temperance.jpg"
+  },
+  {
+    "code": "major_15_devil",
+    "name": "Devil",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_15_devil.jpg"
+  },
+  {
+    "code": "major_16_tower",
+    "name": "Tower",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_16_tower.jpg"
+  },
+  {
+    "code": "major_17_star",
+    "name": "Star",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_17_star.jpg"
+  },
+  {
+    "code": "major_18_moon",
+    "name": "Moon",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_18_moon.jpg"
+  },
+  {
+    "code": "major_19_sun",
+    "name": "Sun",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_19_sun.jpg"
+  },
+  {
+    "code": "major_20_judgement",
+    "name": "Judgement",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_20_judgement.jpg"
+  },
+  {
+    "code": "major_21_world",
+    "name": "World",
+    "arcana": "major",
+    "suit": null,
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Major Arcana/major_21_world.jpg"
+  },
+  {
+    "code": "cups_ace",
+    "name": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_ace.jpg"
+  },
+  {
+    "code": "cups_02",
+    "name": "02 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_02.jpg"
+  },
+  {
+    "code": "cups_03",
+    "name": "03 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_03.jpg"
+  },
+  {
+    "code": "cups_04",
+    "name": "04 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_04.jpg"
+  },
+  {
+    "code": "cups_05",
+    "name": "05 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_05.jpg"
+  },
+  {
+    "code": "cups_06",
+    "name": "06 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_06.jpg"
+  },
+  {
+    "code": "cups_07",
+    "name": "07 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_07.jpg"
+  },
+  {
+    "code": "cups_08",
+    "name": "08 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_08.jpg"
+  },
+  {
+    "code": "cups_09",
+    "name": "09 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_09.jpg"
+  },
+  {
+    "code": "cups_10",
+    "name": "10 of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_10.jpg"
+  },
+  {
+    "code": "cups_page",
+    "name": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_page.jpg"
+  },
+  {
+    "code": "cups_knight",
+    "name": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_knight.jpg"
+  },
+  {
+    "code": "cups_queen",
+    "name": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_queen.jpg"
+  },
+  {
+    "code": "cups_king",
+    "name": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Cups/cups_king.jpg"
+  },
+  {
+    "code": "pentacles_ace",
+    "name": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_ace.jpg"
+  },
+  {
+    "code": "pentacles_02",
+    "name": "02 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_02.jpg"
+  },
+  {
+    "code": "pentacles_03",
+    "name": "03 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_03.jpg"
+  },
+  {
+    "code": "pentacles_04",
+    "name": "04 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_04.jpg"
+  },
+  {
+    "code": "pentacles_05",
+    "name": "05 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_05.jpg"
+  },
+  {
+    "code": "pentacles_06",
+    "name": "06 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_06.jpg"
+  },
+  {
+    "code": "pentacles_07",
+    "name": "07 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_07.jpg"
+  },
+  {
+    "code": "pentacles_08",
+    "name": "08 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_08.jpg"
+  },
+  {
+    "code": "pentacles_09",
+    "name": "09 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_09.jpg"
+  },
+  {
+    "code": "pentacles_10",
+    "name": "10 of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_10.jpg"
+  },
+  {
+    "code": "pentacles_page",
+    "name": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_page.jpg"
+  },
+  {
+    "code": "pentacles_knight",
+    "name": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_knight.jpg"
+  },
+  {
+    "code": "pentacles_queen",
+    "name": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_queen.jpg"
+  },
+  {
+    "code": "pentacles_king",
+    "name": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Pentacles/pentacles_king.jpg"
+  },
+  {
+    "code": "swords_ace",
+    "name": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_ace.jpg"
+  },
+  {
+    "code": "swords_02",
+    "name": "02 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_02.jpg"
+  },
+  {
+    "code": "swords_03",
+    "name": "03 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_03.jpg"
+  },
+  {
+    "code": "swords_04",
+    "name": "04 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_04.jpg"
+  },
+  {
+    "code": "swords_05",
+    "name": "05 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_05.jpg"
+  },
+  {
+    "code": "swords_06",
+    "name": "06 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_06.jpg"
+  },
+  {
+    "code": "swords_07",
+    "name": "07 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_07.jpg"
+  },
+  {
+    "code": "swords_08",
+    "name": "08 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_08.jpg"
+  },
+  {
+    "code": "swords_09",
+    "name": "09 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_09.jpg"
+  },
+  {
+    "code": "swords_10",
+    "name": "10 of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_10.jpg"
+  },
+  {
+    "code": "swords_page",
+    "name": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_page.jpg"
+  },
+  {
+    "code": "swords_knight",
+    "name": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_knight.jpg"
+  },
+  {
+    "code": "swords_queen",
+    "name": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_queen.jpg"
+  },
+  {
+    "code": "swords_king",
+    "name": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Swords/swords_king.jpg"
+  },
+  {
+    "code": "wands_ace",
+    "name": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_ace.jpg"
+  },
+  {
+    "code": "wands_02",
+    "name": "02 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_02.jpg"
+  },
+  {
+    "code": "wands_03",
+    "name": "03 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_03.jpg"
+  },
+  {
+    "code": "wands_04",
+    "name": "04 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_04.jpg"
+  },
+  {
+    "code": "wands_05",
+    "name": "05 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_05.jpg"
+  },
+  {
+    "code": "wands_06",
+    "name": "06 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_06.jpg"
+  },
+  {
+    "code": "wands_07",
+    "name": "07 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_07.jpg"
+  },
+  {
+    "code": "wands_08",
+    "name": "08 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_08.jpg"
+  },
+  {
+    "code": "wands_09",
+    "name": "09 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_09.jpg"
+  },
+  {
+    "code": "wands_10",
+    "name": "10 of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_10.jpg"
+  },
+  {
+    "code": "wands_page",
+    "name": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_page.jpg"
+  },
+  {
+    "code": "wands_knight",
+    "name": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_knight.jpg"
+  },
+  {
+    "code": "wands_queen",
+    "name": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_queen.jpg"
+  },
+  {
+    "code": "wands_king",
+    "name": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "upright": "Upright meaning placeholder",
+    "reversed": "Reversed meaning placeholder",
+    "yes_no": "Maybe",
+    "image": "Minor Arcana/Wands/wands_king.jpg"
+  }
+]
