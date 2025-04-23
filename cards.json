@@ -12,7 +12,8 @@
     "good_for": "New ventures, spiritual awakening, freedom",
     "not_good_for": "Commitment, caution",
     "prediction_denotes": "Leap of faith, adventure, new beginnings",
-    "zodiac_house": "Aries"
+    "zodiac_house": "Aries",
+    "image": "assets/images/major_00_fool.jpg"
   },
   {
     "code": "major_01_magician",
@@ -27,7 +28,8 @@
     "good_for": "Manifestation, creativity, skill",
     "not_good_for": "Manipulation, miscommunication",
     "prediction_denotes": "Power of will, manifesting desires, taking initiative",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/major_01_magician.jpg"
   },
   {
     "code": "major_02_high_priestess",
@@ -42,7 +44,8 @@
     "good_for": "Intuition, dreams, spiritual guidance",
     "not_good_for": "Rushing decisions, ignoring instincts",
     "prediction_denotes": "Secrets revealed, inner wisdom, feminine power",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/major_02_high_priestess.jpg"
   },
   {
     "code": "major_03_empress",
@@ -57,7 +60,8 @@
     "good_for": "Fertility, creativity, nurturing",
     "not_good_for": "Overindulgence, smothering",
     "prediction_denotes": "Abundance, birth of something new, comfort",
-    "zodiac_house": "Taurus"
+    "zodiac_house": "Taurus",
+    "image": "assets/images/major_03_empress.jpg"
   },
   {
     "code": "major_04_emperor",
@@ -72,7 +76,8 @@
     "good_for": "Leadership, discipline, stability",
     "not_good_for": "Rigidity, stubborn control",
     "prediction_denotes": "Power, control, masculine protection",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/major_04_emperor.jpg"
   },
   {
     "code": "major_05_hierophant",
@@ -87,7 +92,8 @@
     "good_for": "Spiritual growth, tradition, mentorship",
     "not_good_for": "Rebellion, unorthodoxy",
     "prediction_denotes": "Teaching, moral values, spiritual institutions",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/major_05_hierophant.jpg"
   },
   {
     "code": "major_06_lovers",
@@ -102,7 +108,8 @@
     "good_for": "Love, unions, major choices",
     "not_good_for": "Temptation, indecision",
     "prediction_denotes": "Deep connections, alignment of values, fateful decisions",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/major_06_lovers.jpg"
   },
   {
     "code": "major_07_chariot",
@@ -117,7 +124,8 @@
     "good_for": "Willpower, victory, focused ambition",
     "not_good_for": "Lack of control, inner conflict",
     "prediction_denotes": "Triumph, movement forward, controlled determination",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/major_07_chariot.jpg"
   },
   {
     "code": "major_08_strength",
@@ -132,7 +140,8 @@
     "good_for": "Patience, emotional control, resilience",
     "not_good_for": "Aggression, brute force",
     "prediction_denotes": "Inner strength, compassion, taming instincts",
-    "zodiac_house": "Leo"
+    "zodiac_house": "Leo",
+    "image": "assets/images/major_08_strength.jpg"
   },
   {
     "code": "major_09_hermit",
@@ -147,7 +156,8 @@
     "good_for": "Self-reflection, spiritual retreat",
     "not_good_for": "Social interactions, impulsive decisions",
     "prediction_denotes": "Inner journey, solitude, soul-searching",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/major_09_hermit.jpg"
   },
   {
     "code": "major_10_wheel_of_fortune",
@@ -162,7 +172,8 @@
     "good_for": "Change, luck, karmic turning points",
     "not_good_for": "Clinging to control, stagnation",
     "prediction_denotes": "Destiny, cycles of life, unexpected luck",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/major_10_wheel_of_fortune.jpg"
   },
   {
     "code": "major_11_justice",
@@ -177,7 +188,8 @@
     "good_for": "Fairness, truth, legal matters",
     "not_good_for": "Bias, avoidance of responsibility",
     "prediction_denotes": "Balance, cause and effect, truth revealed",
-    "zodiac_house": "Libra"
+    "zodiac_house": "Libra",
+    "image": "assets/images/major_11_justice.jpg"
   },
   {
     "code": "major_12_hanged_man",
@@ -192,7 +204,8 @@
     "good_for": "Letting go, perspective shifts",
     "not_good_for": "Forcing outcomes, impatience",
     "prediction_denotes": "Pause, sacrifice, spiritual elevation",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/major_12_hanged_man.jpg"
   },
   {
     "code": "major_13_death",
@@ -207,7 +220,8 @@
     "good_for": "Letting go, rebirth, transformation",
     "not_good_for": "Resistance to change, fear",
     "prediction_denotes": "Major transformation, endings and new beginnings",
-    "zodiac_house": "Scorpio"
+    "zodiac_house": "Scorpio",
+    "image": "assets/images/major_13_death.jpg"
   },
   {
     "code": "major_14_temperance",
@@ -222,7 +236,8 @@
     "good_for": "Harmony, healing, moderation",
     "not_good_for": "Extremes, imbalances",
     "prediction_denotes": "Inner balance, divine timing, blending opposites",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/major_14_temperance.jpg"
   },
   {
     "code": "major_15_devil",
@@ -237,7 +252,8 @@
     "good_for": "Shadow work, confronting addictions",
     "not_good_for": "Giving in to temptation, control issues",
     "prediction_denotes": "Bondage, obsession, breaking free from illusions",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/major_15_devil.jpg"
   },
   {
     "code": "major_16_tower",
@@ -252,7 +268,8 @@
     "good_for": "Liberation, necessary disruption",
     "not_good_for": "Resistance, clinging to falsehood",
     "prediction_denotes": "Sudden change, collapse of false foundations",
-    "zodiac_house": "Aries"
+    "zodiac_house": "Aries",
+    "image": "assets/images/major_16_tower.jpg"
   },
   {
     "code": "major_17_star",
@@ -267,7 +284,8 @@
     "good_for": "Healing, spiritual clarity, optimism",
     "not_good_for": "Pessimism, losing faith",
     "prediction_denotes": "Renewal, faith, divine guidance",
-    "zodiac_house": "Aquarius"
+    "zodiac_house": "Aquarius",
+    "image": "assets/images/major_17_star.jpg"
   },
   {
     "code": "major_18_moon",
@@ -282,7 +300,8 @@
     "good_for": "Intuition, dreamwork, psychic vision",
     "not_good_for": "Delusion, fear, emotional confusion",
     "prediction_denotes": "Hidden truths, intuition, unclear path ahead",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/major_18_moon.jpg"
   },
   {
     "code": "major_19_sun",
@@ -297,7 +316,8 @@
     "good_for": "Success, positivity, vitality",
     "not_good_for": "Ego, burnout",
     "prediction_denotes": "Joy, celebration, radiance",
-    "zodiac_house": "Leo"
+    "zodiac_house": "Leo",
+    "image": "assets/images/major_19_sun.jpg"
   },
   {
     "code": "major_20_judgement",
@@ -312,7 +332,8 @@
     "good_for": "Rebirth, redemption, life purpose",
     "not_good_for": "Denial, stagnation",
     "prediction_denotes": "Calling, reckoning, self-evaluation",
-    "zodiac_house": "Scorpio"
+    "zodiac_house": "Scorpio",
+    "image": "assets/images/major_20_judgement.jpg"
   },
   {
     "code": "major_21_world",
@@ -327,7 +348,8 @@
     "good_for": "Graduation, travel, spiritual mastery",
     "not_good_for": "Incompletion, lack of closure",
     "prediction_denotes": "Completion of cycle, achievement, unity",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/major_21_world.jpg"
   },
   {
     "code": "cups_ace",
@@ -342,7 +364,8 @@
     "good_for": "Emotional beginnings, love, creativity",
     "not_good_for": "Emotional suppression, cold logic",
     "prediction_denotes": "New love, emotional opening, spiritual blessings",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/cups_ace.jpg"
   },
   {
     "code": "cups_02",
@@ -357,7 +380,8 @@
     "good_for": "Union, soulmates, mutual trust",
     "not_good_for": "Imbalance in love, one-sided relationships",
     "prediction_denotes": "Romantic connection, reconciliation, partnerships",
-    "zodiac_house": "Libra"
+    "zodiac_house": "Libra",
+    "image": "assets/images/cups_02.jpg"
   },
   {
     "code": "cups_03",
@@ -372,7 +396,8 @@
     "good_for": "Celebrations, social bonding, joy",
     "not_good_for": "Gossip, third-party drama",
     "prediction_denotes": "Reunion, parties, tribe, soul family",
-    "zodiac_house": "Aquarius"
+    "zodiac_house": "Aquarius",
+    "image": "assets/images/cups_03.jpg"
   },
   {
     "code": "cups_04",
@@ -387,7 +412,8 @@
     "good_for": "Meditation, emotional reset",
     "not_good_for": "Missing opportunities, stagnation",
     "prediction_denotes": "Disconnection, contemplation, emotional boredom",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/cups_04.jpg"
   },
   {
     "code": "cups_05",
@@ -402,7 +428,8 @@
     "good_for": "Processing grief, learning from failure",
     "not_good_for": "Dwelling in sorrow, regret",
     "prediction_denotes": "Emotional setback, disappointment, hidden hope",
-    "zodiac_house": "Scorpio"
+    "zodiac_house": "Scorpio",
+    "image": "assets/images/cups_05.jpg"
   },
   {
     "code": "cups_06",
@@ -417,7 +444,8 @@
     "good_for": "Nostalgia, memories, generosity",
     "not_good_for": "Escapism, being stuck in the past",
     "prediction_denotes": "Childhood emotions, past love, innocence returns",
-    "zodiac_house": "Leo"
+    "zodiac_house": "Leo",
+    "image": "assets/images/cups_06.jpg"
   },
   {
     "code": "cups_07",
@@ -432,7 +460,8 @@
     "good_for": "Vision, imagination, possibilities",
     "not_good_for": "Confusion, illusions, indecision",
     "prediction_denotes": "Daydreaming, many choices, unclear reality",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/cups_07.jpg"
   },
   {
     "code": "cups_08",
@@ -447,7 +476,8 @@
     "good_for": "Moving on, emotional detachment",
     "not_good_for": "Escaping responsibilities, avoidance",
     "prediction_denotes": "Departure, walking away, deeper search",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/cups_08.jpg"
   },
   {
     "code": "cups_09",
@@ -462,7 +492,8 @@
     "good_for": "Emotional contentment, wishes fulfilled",
     "not_good_for": "Overindulgence, smugness",
     "prediction_denotes": "Wish granted, emotional satisfaction, joy",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/cups_09.jpg"
   },
   {
     "code": "cups_10",
@@ -477,7 +508,8 @@
     "good_for": "Family, long-term joy, harmony",
     "not_good_for": "Idealism, avoiding real issues",
     "prediction_denotes": "Lasting happiness, spiritual + emotional unity",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/cups_10.jpg"
   },
   {
     "code": "cups_page",
@@ -492,7 +524,8 @@
     "good_for": "Creative spark, messages of love",
     "not_good_for": "Immaturity, daydreaming",
     "prediction_denotes": "Love message, imagination, youthful energy",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/cups_page.jpg"
   },
   {
     "code": "cups_knight",
@@ -507,7 +540,8 @@
     "good_for": "Romance, idealism, pursuit of dreams",
     "not_good_for": "Moodiness, escapism",
     "prediction_denotes": "Romantic proposal, following the heart",
-    "zodiac_house": "Libra"
+    "zodiac_house": "Libra",
+    "image": "assets/images/cups_knight.jpg"
   },
   {
     "code": "cups_queen",
@@ -522,7 +556,8 @@
     "good_for": "Emotional healing, nurturing, intuition",
     "not_good_for": "Over-sensitivity, emotional dependence",
     "prediction_denotes": "Compassion, inner world, deep feminine intuition",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/cups_queen.jpg"
   },
   {
     "code": "cups_king",
@@ -537,7 +572,8 @@
     "good_for": "Emotional balance, diplomacy, healing",
     "not_good_for": "Emotional detachment, control issues",
     "prediction_denotes": "Wise emotional leader, calm in chaos, fatherly love",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/cups_king.jpg"
   },
   {
     "code": "pentacles_ace",
@@ -552,7 +588,8 @@
     "good_for": "New financial beginnings, grounding",
     "not_good_for": "Greed, short-term thinking",
     "prediction_denotes": "Tangible opportunity, prosperity, stability",
-    "zodiac_house": "Taurus"
+    "zodiac_house": "Taurus",
+    "image": "assets/images/pentacles_ace.jpg"
   },
   {
     "code": "pentacles_02",
@@ -567,7 +604,8 @@
     "good_for": "Time management, financial juggling",
     "not_good_for": "Overwhelm, ignoring priorities",
     "prediction_denotes": "Balance, multitasking, managing change",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/pentacles_02.jpg"
   },
   {
     "code": "pentacles_03",
@@ -582,7 +620,8 @@
     "good_for": "Teamwork, skill-building, collaboration",
     "not_good_for": "Solo work, arrogance",
     "prediction_denotes": "Co-creation, mastering a craft, productive effort",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/pentacles_03.jpg"
   },
   {
     "code": "pentacles_04",
@@ -597,7 +636,8 @@
     "good_for": "Financial caution, savings",
     "not_good_for": "Greed, clinging to possessions",
     "prediction_denotes": "Control, holding on tightly, blocked flow",
-    "zodiac_house": "Taurus"
+    "zodiac_house": "Taurus",
+    "image": "assets/images/pentacles_04.jpg"
   },
   {
     "code": "pentacles_05",
@@ -612,7 +652,8 @@
     "good_for": "Spiritual resilience, endurance",
     "not_good_for": "Financial trust, dependency",
     "prediction_denotes": "Loss, poverty, feeling left out",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/pentacles_05.jpg"
   },
   {
     "code": "pentacles_06",
@@ -627,7 +668,8 @@
     "good_for": "Charity, sharing wealth, generosity",
     "not_good_for": "One-sided giving, expectations",
     "prediction_denotes": "Generosity, receiving help, balance in resources",
-    "zodiac_house": "Taurus"
+    "zodiac_house": "Taurus",
+    "image": "assets/images/pentacles_06.jpg"
   },
   {
     "code": "pentacles_07",
@@ -642,7 +684,8 @@
     "good_for": "Evaluation, long-term investments",
     "not_good_for": "Rushing results",
     "prediction_denotes": "Pause and reflect, results from effort, patience",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/pentacles_07.jpg"
   },
   {
     "code": "pentacles_08",
@@ -657,7 +700,8 @@
     "good_for": "Skill mastery, diligence, work ethic",
     "not_good_for": "Laziness, distraction",
     "prediction_denotes": "Hard work, dedication, perfecting a skill",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/pentacles_08.jpg"
   },
   {
     "code": "pentacles_09",
@@ -672,7 +716,8 @@
     "good_for": "Independence, luxury, enjoying results",
     "not_good_for": "Isolation, over-control",
     "prediction_denotes": "Financial freedom, self-worth, elegance",
-    "zodiac_house": "Taurus"
+    "zodiac_house": "Taurus",
+    "image": "assets/images/pentacles_09.jpg"
   },
   {
     "code": "pentacles_10",
@@ -687,7 +732,8 @@
     "good_for": "Wealth, family legacy, inheritance",
     "not_good_for": "Dependency, material obsession",
     "prediction_denotes": "Legacy, long-term success, family blessings",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/pentacles_10.jpg"
   },
   {
     "code": "pentacles_page",
@@ -702,7 +748,8 @@
     "good_for": "Learning, studying, financial planning",
     "not_good_for": "Procrastination, laziness",
     "prediction_denotes": "New opportunity, student mindset, grounded beginnings",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/pentacles_page.jpg"
   },
   {
     "code": "pentacles_knight",
@@ -717,7 +764,8 @@
     "good_for": "Reliability, routine, slow and steady work",
     "not_good_for": "Inflexibility, stubbornness",
     "prediction_denotes": "Steady progress, disciplined action, dependable help",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/pentacles_knight.jpg"
   },
   {
     "code": "pentacles_queen",
@@ -732,7 +780,8 @@
     "good_for": "Homemaking, abundance, self-care",
     "not_good_for": "Neglecting self, over-giving",
     "prediction_denotes": "Abundant care, domestic wisdom, stable feminine",
-    "zodiac_house": "Taurus"
+    "zodiac_house": "Taurus",
+    "image": "assets/images/pentacles_queen.jpg"
   },
   {
     "code": "pentacles_king",
@@ -747,7 +796,8 @@
     "good_for": "Wealth building, leadership, security",
     "not_good_for": "Greed, authoritarianism",
     "prediction_denotes": "Financial stability, leadership, grounded success",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/pentacles_king.jpg"
   },
   {
     "code": "swords_ace",
@@ -762,7 +812,8 @@
     "good_for": "Mental clarity, truth, new ideas",
     "not_good_for": "Emotional discussions",
     "prediction_denotes": "Breakthrough, intellectual power, justice",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/swords_ace.jpg"
   },
   {
     "code": "swords_02",
@@ -777,7 +828,8 @@
     "good_for": "Balance, neutrality",
     "not_good_for": "Taking sides, quick decisions",
     "prediction_denotes": "Stalemate, hard choices, blocked emotions",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/swords_02.jpg"
   },
   {
     "code": "swords_03",
@@ -792,7 +844,8 @@
     "good_for": "Emotional release",
     "not_good_for": "Love, emotional clarity",
     "prediction_denotes": "Heartbreak, grief, emotional pain",
-    "zodiac_house": "Scorpio"
+    "zodiac_house": "Scorpio",
+    "image": "assets/images/swords_03.jpg"
   },
   {
     "code": "swords_04",
@@ -807,7 +860,8 @@
     "good_for": "Healing, reflection, retreat",
     "not_good_for": "Overwork, conflict",
     "prediction_denotes": "Rest, meditation, mental restoration",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/swords_04.jpg"
   },
   {
     "code": "swords_05",
@@ -822,7 +876,8 @@
     "good_for": "Self-defense",
     "not_good_for": "Peace, teamwork",
     "prediction_denotes": "Betrayal, conflict, hollow victory",
-    "zodiac_house": "Libra"
+    "zodiac_house": "Libra",
+    "image": "assets/images/swords_05.jpg"
   },
   {
     "code": "swords_06",
@@ -837,7 +892,8 @@
     "good_for": "Healing journey, transition",
     "not_good_for": "Staying stuck",
     "prediction_denotes": "Moving forward, change of scenery, mental peace",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/swords_06.jpg"
   },
   {
     "code": "swords_07",
@@ -852,7 +908,8 @@
     "good_for": "Strategic thinking",
     "not_good_for": "Honesty, trust",
     "prediction_denotes": "Deception, stealth, hidden motives",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/swords_07.jpg"
   },
   {
     "code": "swords_08",
@@ -867,7 +924,8 @@
     "good_for": "Learning limitation",
     "not_good_for": "Taking action",
     "prediction_denotes": "Feeling trapped, mental block, self-imprisonment",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/swords_08.jpg"
   },
   {
     "code": "swords_09",
@@ -882,7 +940,8 @@
     "good_for": "Shadow work",
     "not_good_for": "Sleep, emotional safety",
     "prediction_denotes": "Anxiety, regret, sleepless nights",
-    "zodiac_house": "Scorpio"
+    "zodiac_house": "Scorpio",
+    "image": "assets/images/swords_09.jpg"
   },
   {
     "code": "swords_10",
@@ -897,7 +956,8 @@
     "good_for": "Release, endings",
     "not_good_for": "Continuation, new starts",
     "prediction_denotes": "Betrayal, painful ending, collapse",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/swords_10.jpg"
   },
   {
     "code": "swords_page",
@@ -912,7 +972,8 @@
     "good_for": "Learning, observation, research",
     "not_good_for": "Rushing in, gossip",
     "prediction_denotes": "New ideas, watchfulness, mental agility",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/swords_page.jpg"
   },
   {
     "code": "swords_knight",
@@ -927,7 +988,8 @@
     "good_for": "Quick action, assertiveness",
     "not_good_for": "Impulsiveness, rash moves",
     "prediction_denotes": "Bold pursuit, action without delay",
-    "zodiac_house": "Aries"
+    "zodiac_house": "Aries",
+    "image": "assets/images/swords_knight.jpg"
   },
   {
     "code": "swords_queen",
@@ -942,7 +1004,8 @@
     "good_for": "Clarity, boundaries, truth-telling",
     "not_good_for": "Over-emotional reactions",
     "prediction_denotes": "Wise judgment, strong boundaries, independence",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/swords_queen.jpg"
   },
   {
     "code": "swords_king",
@@ -957,7 +1020,8 @@
     "good_for": "Leadership, intellect, fairness",
     "not_good_for": "Rigidity, cold logic",
     "prediction_denotes": "Powerful intellect, truth, disciplined authority",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/swords_king.jpg"
   },
   {
     "code": "wands_ace",
@@ -972,7 +1036,8 @@
     "good_for": "Initiating passion projects, courage, motivation",
     "not_good_for": "Delays, fear of action",
     "prediction_denotes": "Creative spark, bold new beginnings",
-    "zodiac_house": "Aries"
+    "zodiac_house": "Aries",
+    "image": "assets/images/wands_ace.jpg"
   },
   {
     "code": "wands_02",
@@ -987,7 +1052,8 @@
     "good_for": "Planning, exploration, future vision",
     "not_good_for": "Indecision, impatience",
     "prediction_denotes": "Choices, strategy, stepping into power",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/wands_02.jpg"
   },
   {
     "code": "wands_03",
@@ -1002,7 +1068,8 @@
     "good_for": "Expansion, progress, growth",
     "not_good_for": "Passive waiting",
     "prediction_denotes": "Opportunity on the horizon, taking initiative",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/wands_03.jpg"
   },
   {
     "code": "wands_04",
@@ -1017,7 +1084,8 @@
     "good_for": "Celebrations, milestones, harmony",
     "not_good_for": "Delaying joy",
     "prediction_denotes": "Homecoming, community, joy",
-    "zodiac_house": "Cancer"
+    "zodiac_house": "Cancer",
+    "image": "assets/images/wands_04.jpg"
   },
   {
     "code": "wands_05",
@@ -1032,7 +1100,8 @@
     "good_for": "Challenge, competition",
     "not_good_for": "Teamwork, calm discussions",
     "prediction_denotes": "Struggles, ego clashes, power play",
-    "zodiac_house": "Virgo"
+    "zodiac_house": "Virgo",
+    "image": "assets/images/wands_05.jpg"
   },
   {
     "code": "wands_06",
@@ -1047,7 +1116,8 @@
     "good_for": "Victory, recognition, success",
     "not_good_for": "Arrogance, ego traps",
     "prediction_denotes": "Victory parade, acknowledgment, achievement",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/wands_06.jpg"
   },
   {
     "code": "wands_07",
@@ -1062,7 +1132,8 @@
     "good_for": "Standing your ground, protection",
     "not_good_for": "Compromise, surrender",
     "prediction_denotes": "Defensiveness, holding position, fighting for values",
-    "zodiac_house": "Aries"
+    "zodiac_house": "Aries",
+    "image": "assets/images/wands_07.jpg"
   },
   {
     "code": "wands_08",
@@ -1077,7 +1148,8 @@
     "good_for": "Quick movement, action, messages",
     "not_good_for": "Delays, waiting",
     "prediction_denotes": "Rapid developments, messages, travel",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/wands_08.jpg"
   },
   {
     "code": "wands_09",
@@ -1092,7 +1164,8 @@
     "good_for": "Endurance, boundaries",
     "not_good_for": "Over-vigilance, fear",
     "prediction_denotes": "Wounded warrior, last stand, protective energy",
-    "zodiac_house": "Pisces"
+    "zodiac_house": "Pisces",
+    "image": "assets/images/wands_09.jpg"
   },
   {
     "code": "wands_10",
@@ -1107,7 +1180,8 @@
     "good_for": "Responsibility, duty",
     "not_good_for": "Overwork, burnout",
     "prediction_denotes": "Heavy burden, responsibility overload",
-    "zodiac_house": "Capricorn"
+    "zodiac_house": "Capricorn",
+    "image": "assets/images/wands_10.jpg"
   },
   {
     "code": "wands_page",
@@ -1122,7 +1196,8 @@
     "good_for": "Exploration, new ideas",
     "not_good_for": "Follow-through, planning",
     "prediction_denotes": "Creative start, curiosity, youthful enthusiasm",
-    "zodiac_house": "Gemini"
+    "zodiac_house": "Gemini",
+    "image": "assets/images/wands_page.jpg"
   },
   {
     "code": "wands_knight",
@@ -1137,7 +1212,8 @@
     "good_for": "Adventures, confidence",
     "not_good_for": "Impulsiveness, inconsistency",
     "prediction_denotes": "Bold move, passionate action, charging ahead",
-    "zodiac_house": "Aries"
+    "zodiac_house": "Aries",
+    "image": "assets/images/wands_knight.jpg"
   },
   {
     "code": "wands_queen",
@@ -1152,7 +1228,8 @@
     "good_for": "Charisma, confidence, leadership",
     "not_good_for": "Over-domination, pride",
     "prediction_denotes": "Fiery feminine, magnetic leader, radiance",
-    "zodiac_house": "Leo"
+    "zodiac_house": "Leo",
+    "image": "assets/images/wands_queen.jpg"
   },
   {
     "code": "wands_king",
@@ -1167,6 +1244,7 @@
     "good_for": "Visionary leadership, ambition",
     "not_good_for": "Dictatorship, arrogance",
     "prediction_denotes": "Leader of vision, bold direction, dynamic energy",
-    "zodiac_house": "Sagittarius"
+    "zodiac_house": "Sagittarius",
+    "image": "assets/images/wands_king.jpg"
   }
 ]
